@@ -1,0 +1,17 @@
+/* .btn {
+    color: white;
+    background-color: brown;
+    padding: 10px 20px 10px 20px;
+    border: 0px;
+    border-radius: 10px;
+} */
+
+
+
+.gameBtn {
+    background-color: black;
+    color: white;
+    border: 0px;
+    border-radius: 2px;
+    padding: 20px 5px 20px 5px;
+}
